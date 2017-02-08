@@ -1,0 +1,38 @@
+./main
+
+N is 64
+elasped time of dgemm2: 776000 nanoseconds
+0 seconds
+elasped time of dgemm3: 969000 nanoseconds
+0 seconds
+maximum difference: 0.000000
+N is 128
+elasped time of dgemm2: 7861000 nanoseconds
+0 seconds
+elasped time of dgemm3: 8187000 nanoseconds
+0 seconds
+maximum difference: 0.000000
+N is 256
+elasped time of dgemm2: 61084000 nanoseconds
+0 seconds
+elasped time of dgemm3: 58262000 nanoseconds
+0 seconds
+maximum difference: 0.000000
+N is 512
+elasped time of dgemm2: 777217000 nanoseconds
+0 seconds
+elasped time of dgemm3: 638660000 nanoseconds
+0 seconds
+maximum difference: 0.000000
+N is 1024
+elasped time of dgemm2: 12139472000 nanoseconds
+12 seconds
+elasped time of dgemm3: 8944614000 nanoseconds
+8 seconds
+maximum difference: 0.000000
+N is 2048
+elasped time of dgemm2: 131759190000 nanoseconds
+131 seconds
+elasped time of dgemm3: 97440396716 nanoseconds
+97 seconds
+maximum difference: 0.000000

@@ -1,0 +1,54 @@
+mpiexec -np 25 ./main 100000000 #10^8
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:1
+
+Llow_value:2 Hhigh_value:100000000
+
+There are 5761455 primes less than 100000000
+SIEVE (25)  14.193345

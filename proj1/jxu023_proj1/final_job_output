@@ -1,0 +1,61 @@
+
+N is 64
+elasped time of dgemm0: 3629659 nanoseconds
+0 seconds
+elasped time of dgemm1: 2327783 nanoseconds
+0 seconds
+elasped time of dgemm2: 884176 nanoseconds
+0 seconds
+elasped time of dgemm3: 761351 nanoseconds
+0 seconds
+maximum difference: 0.000000maximum difference: 0.000000
+N is 128
+elasped time of dgemm0: 30518920 nanoseconds
+0 seconds
+elasped time of dgemm1: 22028394 nanoseconds
+0 seconds
+elasped time of dgemm2: 6874935 nanoseconds
+0 seconds
+elasped time of dgemm3: 6593061 nanoseconds
+0 seconds
+maximum difference: 0.000000maximum difference: 0.000000
+N is 256
+elasped time of dgemm0: 272759155 nanoseconds
+0 seconds
+elasped time of dgemm1: 169224083 nanoseconds
+0 seconds
+elasped time of dgemm2: 54110145 nanoseconds
+0 seconds
+elasped time of dgemm3: 46799255 nanoseconds
+0 seconds
+maximum difference: 0.000000maximum difference: 0.000000
+N is 512
+elasped time of dgemm0: 2775576759 nanoseconds
+2 seconds
+elasped time of dgemm1: 1848583855 nanoseconds
+1 seconds
+elasped time of dgemm2: 778515955 nanoseconds
+0 seconds
+elasped time of dgemm3: 573790582 nanoseconds
+0 seconds
+maximum difference: 0.000000maximum difference: 0.000000
+N is 1024
+elasped time of dgemm0: 28041586104 nanoseconds
+28 seconds
+elasped time of dgemm1: 17698067868 nanoseconds
+17 seconds
+elasped time of dgemm2: 7413781600 nanoseconds
+7 seconds
+elasped time of dgemm3: 5782826723 nanoseconds
+5 seconds
+maximum difference: 0.000000maximum difference: 0.000000
+N is 2048
+elasped time of dgemm0: 743277148951 nanoseconds
+743 seconds
+elasped time of dgemm1: 430489480601 nanoseconds
+430 seconds
+elasped time of dgemm2: 185419919745 nanoseconds
+185 seconds
+elasped time of dgemm3: 153162775913 nanoseconds
+153 seconds
+maximum difference: 0.000000maximum difference: 0.000000

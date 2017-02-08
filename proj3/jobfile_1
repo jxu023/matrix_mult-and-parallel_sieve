@@ -1,0 +1,12 @@
+#PBS -l nodes=4:nogpu:ppn=2,walltime=00:60:00
+
+module purge
+module load mvapich2-1.9a2/gnu-4.6.2
+module load gcc-4.6.2
+
+JOB_PATH=/home/jxu023/proj3
+cd $JOB_PATH
+
+#4 nodes, 2 cores per node. keep at 1 process / core
+mpiexec -np 8 ./main 100000000 #10^8
+# it cannot allocate enough memory at 10^9

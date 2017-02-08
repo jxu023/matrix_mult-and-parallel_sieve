@@ -1,0 +1,18 @@
+count cache misses for a particular element
+vs
+coutn cache misses for whoel matrix
+
+try matlab code for matlab to C for matrix multiplication
+see what their alg is .. .compare to cs211 
+
+3B^2 < C
+
+c = cij + aij*bij
+this is 3 reads and 1 write, can't do away with the write 
+without the register reuse but yeah that's not related to cache thing ..
+
+why was it b^2/4 misses per block
+	I think it was that a line was 4 or 3 doubles every 4 values 
+	there is cache miss
+
+experimentally find the length of a line by testing times to retrieve doubles from memory when retrieving x number of local doubles

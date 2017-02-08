@@ -1,0 +1,12 @@
+mpiexec -np 4 ./sieve0 100000000 #10^8
+There are 5761455 primes less than 100000000
+SIEVE (4)   0.989479
+mpiexec -np 4 ./sieve1 100000000 #10^8
+There are 5761455 primes less than 100000000
+SIEVE (4)   0.582774
+mpiexec -np 4 ./sieve2 100000000 #10^8
+There are 5761455 primes less than 100000000
+SIEVE (4)   0.482616
+mpiexec -np 4 ./sieve3 100000000 100000 #10^8 10^5
+There are 5761455 primes less than 100000000
+SIEVE (4)   0.374019

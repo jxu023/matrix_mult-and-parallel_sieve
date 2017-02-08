@@ -1,0 +1,62 @@
+./main
+
+N is 10
+elasped time of dgemm0: 18000 nanoseconds
+0 seconds
+elasped time of dgemm1: 13000 nanoseconds
+0 seconds
+elasped time of dgemm2: 5000 nanoseconds
+0 seconds
+elasped time of dgemm3: 11000 nanoseconds
+0 seconds
+maximum difference: 0.000000maximum difference: 0.000000
+N is 10
+elasped time of dgemm0: 15000 nanoseconds
+0 seconds
+elasped time of dgemm1: 14000 nanoseconds
+0 seconds
+elasped time of dgemm2: 4000 nanoseconds
+0 seconds
+elasped time of dgemm3: 8000 nanoseconds
+0 seconds
+maximum difference: 0.000000maximum difference: 0.000000
+N is 10
+elasped time of dgemm0: 15000 nanoseconds
+0 seconds
+elasped time of dgemm1: 13000 nanoseconds
+0 seconds
+elasped time of dgemm2: 4000 nanoseconds
+0 seconds
+elasped time of dgemm3: 8000 nanoseconds
+0 seconds
+maximum difference: 0.000000maximum difference: 0.000000
+N is 10
+elasped time of dgemm0: 16000 nanoseconds
+0 seconds
+elasped time of dgemm1: 13000 nanoseconds
+0 seconds
+elasped time of dgemm2: 4000 nanoseconds
+0 seconds
+elasped time of dgemm3: 8000 nanoseconds
+0 seconds
+maximum difference: 0.000000maximum difference: 0.000000
+N is 10
+elasped time of dgemm0: 15000 nanoseconds
+0 seconds
+elasped time of dgemm1: 13000 nanoseconds
+0 seconds
+elasped time of dgemm2: 4000 nanoseconds
+0 seconds
+elasped time of dgemm3: 8000 nanoseconds
+0 seconds
+maximum difference: 0.000000maximum difference: 0.000000
+N is 0
+elasped time of dgemm0: 1000 nanoseconds
+0 seconds
+elasped time of dgemm1: 0 nanoseconds
+0 seconds
+elasped time of dgemm2: 0 nanoseconds
+0 seconds
+elasped time of dgemm3: 1000 nanoseconds
+0 seconds
+maximum difference: 0.000000maximum difference: 0.000000

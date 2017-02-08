@@ -1,0 +1,13 @@
+elasped time of alg1_kij: 52105521144 nanoseconds
+52 seconds
+elasped time of dgemm2: 8298259674 nanoseconds
+8 seconds
+maximum difference: 0.000000
+elasped time of dgemm3: 7729605022 nanoseconds
+7 seconds
+maximum difference: 0.000000
+elasped time of dgemm3_kij: 6986107803 nanoseconds
+6 seconds
+maximum difference: 0.000000
+
+
